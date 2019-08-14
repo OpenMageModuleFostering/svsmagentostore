@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/SVSMagentoStore",
+    "type": "magento-module",
+    "license": "GPLv3",
+    "homepage": "",
+    "description": "Free Magento Themes",
+    "authors": [
+    {
+        "name": "SVS WEBSOFT",
+        "email": "office@svs-websoft.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
