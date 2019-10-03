@@ -1,5 +1,5 @@
 {
-    "name": "OpenMageModuleFostering\/SVSMagentoStore",
+    "name": "openmage-module-fostering\/svsmagentostore",
     "type": "magento-module",
     "license": "GPLv3",
     "homepage": "",
